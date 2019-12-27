@@ -8,7 +8,7 @@
 ------------------------------------------------------------------------------------------------------#----------------------------------------#>
 
 cls
-$path = "C:\Users\1026256\Desktop\Project"
+$path = "C:\Users\Admin\Desktop\Project"
 $input1 = $path + "\Tasks.csv"
 $input2 = $path + "\Operations.csv"
 $Logfile = $path + "\Lgfile.log"
