@@ -1,2 +1,2 @@
 # PowershellWork
-This powershell script include task scheduler and service manager automations that helps in automating sloud services.
+The powershell script include service manager automations that helps in automating cloud services.
